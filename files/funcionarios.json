@@ -1,0 +1,9 @@
+{"funcionarios":[
+    {"nome": "Maria", "funcao": "Assessor", "departamento": "Diretoria"},
+    {"nome": "Silvia", "funcao": "Engenheiro Elétrico", "departamento": "Departamento de Engenharia"},
+    {"nome": "Paulo", "funcao": "Programador", "departamento": "Gerência de TI"},
+    {"nome": "João", "funcao": "Técnico", "departamento": "Gerência de Planejamento"},
+    {"nome": "Cecília", "funcao": "Técnico", "departamento": "Atendimento"},
+    {"nome": "José", "funcao": "Técnico", "departamento": "Atendimento"},
+    {"nome": "Mônica", "funcao": "Técnico", "departamento": "Atendimento"}
+]}
